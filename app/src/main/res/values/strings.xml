@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="str_devinez">Devinez</string>
+    <string name="score">Score :</string>
+    <string name="textViewIndication">...</string>
+    <string name="textviewtentatives">0</string>
+</resources>
